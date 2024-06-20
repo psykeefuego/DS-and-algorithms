@@ -1,1 +1,1 @@
-# Ds-and-algorithms
+# DSA programs and their solutions
